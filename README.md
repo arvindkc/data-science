@@ -1,4 +1,4 @@
 data-science
 ============
 
-Repository for data science projects
+This is a repository for data science projects
